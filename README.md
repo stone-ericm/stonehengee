@@ -9,5 +9,5 @@
 
 #### Connect with me
 <a href= 'https://linkedin.com/in/stoneericm' rel="nofollow"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stone-eric.medium.com/" rel="nofollow"><img src= "https://img.shields.io/badge/Medium-191919?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="mailto:stone.ericm@gmail.com" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!--- <a href="https://brennanroel.blogspot.com/" rel="nofollow"><img src= "https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a> --->
