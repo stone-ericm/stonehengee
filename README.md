@@ -1,10 +1,9 @@
 # Hi, I'm Eric Stone
 
-### I'm a data scientist and recent Flatiron School graduate from New York
+### I'm a data analyst at The New York Times
 
 - :gear:	I'm currently improving my projects to be more efficient
 - :baseball: I'm preparing my baseball research for the 2022 season (Go Mets!)
-- :telephone_receiver:	I'm looking for a job in data science
 - :earth_americas:	I enjoy grand strategy games and sci-fi novels
 
 #### Connect with me
